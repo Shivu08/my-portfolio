@@ -1,0 +1,107 @@
+{
+  "main": {
+    "name": "Shiva M",
+    "occupation": "Senior Engineer",
+    "description": "React developer",
+    "image": "profilepic4.jpg",
+    "bio": "Hi there! I am Shiva! I am web developer. I've been coding for over 5 years now. Started my journey as Backend Developer then I got opportunity to work as a web developer, I've worked with medium and large organizations.",
+    "contactmessage": "Get in touch with me!",
+    "email": "shivumalapur08@gmail.com",
+    "phone": "+91 8904221152",
+    "address": {
+      "street": "2nd Stage, 5th Main Road, Vijayanagar",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "zip": "560040"
+    },
+    "website": "https://www.linkedin.com/in/shivashankar-malapur-31963894/",
+    "resumedownload": "https://drive.google.com/file/d/1FxzlLkZ7hEBlhRzcSs8W_wZaklSUFMsC/view",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/shivu.malapur/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/shivashankar-malapur-31963894/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/amshiv_/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/Shivu08",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Visvesvaraya Technological University - Belagavi",
+        "degree": "Computer Science and Engineering",
+        "graduated": "July 2015",
+        "description": "Graduated with First Class"
+      }
+    ],
+    "work": [
+      {
+        "company": "Brillio",
+        "title": "Senior Engineer",
+        "years": "Dec 2020 - Present",
+        "description": "Woking as web developer."
+      }
+    ],
+    "skills": [
+      {
+        "name": "JavaScript",
+        "level": "80%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "75%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "Web Development",
+        "level": "95%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Covid-19 Tracker (React JS)",
+        "category": "",
+        "image": "covid.jpeg",
+        "url": "https://covid-19-tracker-48f20.web.app/"
+      },
+      {
+        "title": "TODO APP (React JS)",
+        "category": "",
+        "image": "todo.jpeg",
+        "url": "https://todo-app-2fca8.web.app/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Shiva has been my personal mentor and since then he has transformed my life for the better, an excellent tutor!",
+        "user": "Vishwanath"
+      },
+      {
+        "text": "Learning with Shiva has been AWESOME, he makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
+        "user": "Mutturaj"
+      }
+    ]
+  }
+}
